@@ -12,4 +12,7 @@
         padding: 10px;
         box-shadow: 3px 3px 5px rgb(248, 108, 108);
     }
+    img.lado{
+        float: right;
+    }
     
